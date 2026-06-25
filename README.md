@@ -31,9 +31,17 @@ Database Layer
 
 ## Documentation
 
-- Functional Requirements
-- Non-Functional Requirements
+### Requirements
+
+- [Functional Requirements](docs/requirements/functional-requirements.md)
+- [Non-Functional Requirements](docs/requirements/non-functional-requirements.md)
+
+### Architecture
+
+- [System Architecture](docs/architecture/system-architecture.md)
+- [ERD](docs/architecture/erd.md)
+
+### Database
 - Database Schema
-- System Architecture
 
 ## Installation
